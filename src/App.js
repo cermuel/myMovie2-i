@@ -43,7 +43,7 @@ function App() {
           <input
             type="search"
             className="search"
-            placeholder="Search..."
+            placeholder="Search Movie..."
             value={searchterm}
             onChange={handleChange}
           />
